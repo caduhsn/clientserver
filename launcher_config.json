@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "OTServ Name",
+	"clientFolder": "Styller-X Client",
 	"newClientUrl" : "https://github.com/caduhsn/clientserver/releases/download/15.03.0001/client15.03.zip",
 	"clientExecutable": "client.exe"
 }
