@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.03.000",
+	"clientVersion": "15.03.0000",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -23,7 +23,8 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Styller-X Client",
+	"clientFolder": "styller-x",
 	"newClientUrl" : "https://github.com/caduhsn/clientserver/releases/download/15.03.0000/styller-x.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "client.exe",
+	"newClientSha256": "C5A571FEFF19A1565F4186E7A61F69B12DAF0CDF96C2CD91929DF656CAE88DC3"
 }
