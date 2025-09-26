@@ -26,5 +26,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	"clientFolder": "styller-x",
 	"newClientUrl" : "https://github.com/caduhsn/clientserver/releases/download/15.03.0000/styller-x.zip",
 	"clientExecutable": "client.exe",
-	"newClientSha256": "C5A571FEFF19A1565F4186E7A61F69B12DAF0CDF96C2CD91929DF656CAE88DC3"
+	"newClientSha256": "399f49df61c095951b10ef0c4b7125c8a5ef96232200d0f0ff78fd05b642543e"
 }
